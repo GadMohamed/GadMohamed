@@ -1,4 +1,7 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Gad Mohamed!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am **Gad Mohamed**!
+
+[<img src="https://raw.githubusercontent.com/GadMohamed/GadMohamed/main/WhatsApp%20Image%202021-10-07%20at%203.10.22%20PM.jpeg" alt="👋 Hi there!" title="👋 Hi there! "/>](https://raymond.li/)
+
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 junior Front-End 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
