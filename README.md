@@ -1,6 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am **Gad Mohamed**!
+### Hi there , <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">I am **Gad Mohamed**!
 
-[<img src="https://raw.githubusercontent.com/GadMohamed/GadMohamed/main/WhatsApp%20Image%202021-10-07%20at%203.10.22%20PM.jpeg" alt="Hi there!" title="👋 Hi there! "/>](https://raymond.li/)
+[<img src="https://raw.githubusercontent.com/GadMohamed/GadMohamed/main/WhatsApp%20Image%202021-10-07%20at%203.10.22%20PM.jpeg" alt="👋 Hi there!" title="👋 Hi there! "/>](https://raymond.li/)
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
@@ -23,6 +23,9 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+
+    </p>
+
 
 ---
 
