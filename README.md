@@ -1,6 +1,6 @@
 ### Hi there , <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">I am **Gad Mohamed**!
 
-[<img src="https://raw.githubusercontent.com/GadMohamed/GadMohamed/main/WhatsApp%20Image%202021-10-07%20at%203.10.22%20PM.jpeg" alt="👋 Hi there!" title="👋 Hi there! "/>]
+<img src="https://raw.githubusercontent.com/GadMohamed/GadMohamed/main/WhatsApp%20Image%202021-10-07%20at%203.10.22%20PM.jpeg" alt="👋 Hi there!" title="👋 Hi there! "/>
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
