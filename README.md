@@ -4,7 +4,9 @@
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 junior Front-End 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+I am a Front-End Engineer with industry experience building Websites, Web Apps.
+I specialize in JavaScript and have professional experience working with Angular. I also have experience working with HTML, CSS, jquery, Bootstrap, Material Design, Typescript, Angularjs2 plus, ionic, Scss, Sass, Npm, and Git.
+- 🖥 Front-End 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 I am trying to understand javascript 😄
 ---
 
