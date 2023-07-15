@@ -1,16 +1,70 @@
-### Hi there , <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">I am **Gad Mohamed**!
+### Hi there, I'm Gad Mohamed! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 
-<img src="https://raw.githubusercontent.com/GadMohamed/GadMohamed/main/WhatsApp%20Image%202021-10-07%20at%203.10.22%20PM.jpeg" alt="👋 Hi there!" title="👋 Hi there! "/>
+![Hi there!](https://raw.githubusercontent.com/GadMohamed/GadMohamed/main/WhatsApp%20Image%202021-10-07%20at%203.10.22%20PM.jpeg)
 
+## :book: About Me
+I am a skilled Front-End Engineer with a strong background in building dynamic and responsive Websites and Web Apps. With over 4 years of professional experience, I specialize in JavaScript and have expertise in working with Angular, a popular JavaScript framework. My skill set also includes HTML, CSS, jQuery, Bootstrap, Material Design, TypeScript, AngularJS, Ionic, SCSS, Sass, Npm, and Git. I am passionate about creating efficient and user-friendly interfaces, utilizing these technologies to deliver high-quality front-end solutions. Throughout my career, I have successfully collaborated with cross-functional teams, consistently delivering projects on time and meeting client specifications.
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-I am a Front-End Engineer with industry experience building Websites, Web Apps.
-I specialize in JavaScript and have professional experience working with Angular. I also have experience working with HTML, CSS, jquery, Bootstrap, Material Design, Typescript, Angularjs2 plus, ionic, Scss, Sass, Npm, and Git.
-- 🖥 Front-End 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 🎓 I am trying to understand javascript 😄
+## :wrench: Core Skills & Keywords
+- JavaScript
+- ES6
+- jQuery
+- Angular2+
+- RxJs
+- NGRX(Redux)
+- TypeScript
+- Version Control
+- HTML5 - CSS
+- SCSS/Sass
+- Bootstrap
+- Material Design
+- SSR
+- SEO
+- Angular Material
+- Ngx-bootstrap
+- ag-grid
+- Ionic5
+- Familiar: Reactjs
+- Npm
+- Adobe XD
+- Time management
+- Teamwork skills
+- Agile
+- Project Management Skills (JIRA, Slack)
+
+## :sparkles: Notable Accomplishments
+- Successfully developed and designed the front-end of a management system web app using Angular 11 for 4jawaly.
+- Contributed to the development of Viewclass, a web app for schools, managing students, parents, financial operations, and more.
+- Worked on the design and development of the Hr Web App for 4jawaly, managing employees, vacations, and salaries.
+- Determined the structure and design of web pages using Angular for The Place.
+- Developed an e-commerce mobile app using Ionic5 and Angular for Shura Solutions.
+- Created social network apps like Friends, Ezaula, CastingSecret, and Drones, where I contributed to various modules and functionalities.
+
+## :mortar_board: Education
+- Faculty Of Science, Department of Math and Computer Science.
+
+## :globe_with_meridians: Languages
+- Arabic - Native
+- English - Good
+
+## :briefcase: Career Goals
+My career goal is to continue growing as a Full-Stack JavaScript software engineer. I am also enthusiastic about contributing to significant projects that serve a wide range of people worldwide.
+
+## :art: Interests and Hobbies
+In my spare time, I enjoy spending quality time with my family, traveling, and continuously expanding my knowledge and skills. I am also passionate about learning new technologies and helping others.
+
+## :handshake: Why I'm a Good Fit for Your Company
+As a highly skilled and experienced Front-End Engineer, I have a proven track record of delivering high-quality web applications. With a strong work ethic and a collaborative mindset, I thrive in team environments and always go the extra mile. I am confident that my skills, experience, and dedication make me a valuable asset to any company.
+
+## :bulb: What I Can Do for Your Company
+I can contribute to your company by building and delivering high-quality web applications that are user-friendly and accessible. With my expertise in front-end development and strong collaboration skills, I can also assist in developing and maintaining cross-platform mobile applications. I am committed to going above and beyond to help your company achieve its goals.
+
+## :mailbox: Contact Me
+You can reach me on [LinkedIn](https://www.linkedin.com/in/gadmohamedgad/) or [Twitter](https://twitter.com/GadMoha99556492). Let's connect and discuss potential opportunities!
+
 ---
 
-🧰 Toolbox
+## 🧰 Toolbox
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -21,32 +75,9 @@ I specialize in JavaScript and have professional experience working with Angular
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
 ---
 
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow GadMohamed on LinkedIn" title="Follow GadMohamed on LinkedIn"/>](https://www.linkedin.com/in/gadmohamedgad/)
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/twitter.svg" height="40em" align="center" alt="Follow GadMohamed on Twitter" title="Follow GadMohamed on Twitter"/>](https://twitter.com/GadMoha99556492)
-<!--
-**GadMohamed/GadMohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a>
--->
+## 📫 How to Reach Me:
+You can reach me on [LinkedIn](https://www.linkedin.com/in/gadmohamedgad/) or [Twitter](https://twitter.com/GadMoha99556492). Let's connect and discuss potential opportunities!
