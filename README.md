@@ -78,4 +78,4 @@ I can contribute to your company by building and delivering high-quality web app
 ---
 
 ## 📫 How to Reach Me:
-You can reach me via email at [your-email@example.com](mailto:gad.mohamed366@gmail.com). Alternatively, you can also connect with me on [LinkedIn](https://www.linkedin.com/in/gadmohamedgad/) or [Twitter](https://twitter.com/GadMoha99556492). Let's connect and discuss potential opportunities!
+You can reach me via email at [gad.mohamed366@gmail.com](mailto:gad.mohamed366@gmail.com). Alternatively, you can also connect with me on [LinkedIn](https://www.linkedin.com/in/gadmohamedgad/) or [Twitter](https://twitter.com/GadMoha99556492). Let's connect and discuss potential opportunities!
