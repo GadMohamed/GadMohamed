@@ -1,4 +1,4 @@
-### Hi there, I'm Gad Mohamed! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
+### Hi there, I'm Gad Mohamed! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px"> <img src="https://visitcount.itsvg.in/api?id=GadMohamed&icon=0&color=0" style="display:inline-block;margin:auto auo">
 
 ![Hi there!](https://raw.githubusercontent.com/GadMohamed/GadMohamed/main/WhatsApp%20Image%202021-10-07%20at%203.10.22%20PM.jpeg)
 
